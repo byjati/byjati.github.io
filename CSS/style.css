@@ -1,0 +1,135 @@
+@media only screen and (max-width: 720px) {
+  background {
+    color: #DFE4EA;
+  }
+  .intro {
+    font-family: 'Helvetica-Neue', sans-serif;
+  	font-size: 1em;
+    line-height: 1.25em;
+  }
+  .typewrite {
+    font-family: 'Helvetica-Neue', sans-serif;
+  	font-size: 1.5em;
+    line-height: 1.25em;
+  }
+  .desc {
+    font-family: 'Helvetica-Neue', sans-serif;
+  	font-size: 1em;
+    line-height: 1.25em;
+  }
+
+  .copyright {
+    font-family: 'Helvetica-Neue', sans-serif;
+  	font-size: 1em;
+    line-height: 1.25em;
+  }
+  .wrap {
+    font-family: 'Helvetica-Neue', sans-serif;
+  	font-size: 0.80em;
+    line-height: 1.25em;
+  }
+}
+
+.d-flex {
+    background-image: url(../images/);
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 30%;
+    overflow: hidden;
+}
+
+.d-flex, .social {
+	text-align: center;
+}
+
+.container, .container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+    text-align: center;
+    justify-content: center;
+}
+
+.li social {
+	padding: 10px;
+}
+
+.social {
+	display: inline-block;
+	list-style: none;
+	border: 0px;
+	line-height: 1.25em;
+	padding-right: 24px;
+	padding-bottom: 28px;
+}
+
+.btn btn-lg btn-primar {
+  color: #1E90FF;
+	font-size: 1.5em;
+  line-height: 1.25em;
+}
+
+a {
+	display: inline-block;
+	text-decoration: none;
+	font-family: 'Helvetica-Neue', sans-serif;
+	color: #FF4757;
+}
+
+a:hover {
+	display: inline-block;
+	text-decoration: none;
+	font-family: 'Helvetica-Neue', sans-serif;
+	color: #1E90FF;
+}
+
+p {
+  font-family: 'Helvetica-Neue', sans-serif;
+	text-align: center;
+  font-size: 1em;
+}
+
+.intro {
+  font-family: 'Helvetica-Neue', sans-serif;
+	font-size: 1.5em;
+  line-height: 1.25em;
+}
+.typewrite {
+  font-family: 'Helvetica-Neue', sans-serif;
+	font-size: 2.5em;
+  line-height: 1.25em;
+}
+
+.desc {
+  font-family: 'Helvetica-Neue', sans-serif;
+	font-size: 1.5em;
+  line-height: 1.25em;
+}
+
+.copyright {
+  font-family: 'Helvetica-Neue', sans-serif;
+	font-size: 1em;
+  line-height: 1.25em;
+}
+
+footer {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 85%;
+	font-size: 1.00em;
+  text-align: center;
+}
+
+.fa-heart {
+	color: #FF4757;
+}
