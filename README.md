@@ -1,2 +1,1 @@
-#Minimalist website portfolio.
-#Designed and developed by Sasongko Jati.
+Designed & Developed by Sasongko Jati. </> with love & hosted on GitHub.
