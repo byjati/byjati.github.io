@@ -166,8 +166,8 @@ Table of Contents
 	}
 
 	.logo {
-		height: 28px;
-		margin-top: 26px;
+		height: 90px;
+		margin-top: 9px;
 	}
 
 	.main-header {
@@ -388,7 +388,7 @@ Table of Contents
 
 	.contact-form input[name=name],
 	.contact-form input[name=email],
-	.contact-form input[name=business], 
+	.contact-form input[name=business],
 	.contact-form input[name=phone-number] {
 		float: none;
 		width: 100%;
@@ -464,7 +464,7 @@ Table of Contents
 	.blog .blog-item:nth-of-type(7){
 		margin-bottom: 0;
 	}
-	
+
 	.blog .blog-item .entry-thumbnail,
 	.blog-post .entry-thumbnail,
 	.portfolio-item-thumbnail {
