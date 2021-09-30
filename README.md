@@ -1,1 +1,1 @@
-# byjati.github.io
+# byjati/minimalist
